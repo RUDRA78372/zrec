@@ -7,4 +7,4 @@
 		stdin is not supported while encoding 
 
 
-Made it back in 2020, back when I was less depressed (JK). Deciding to make it open source now. Would do the same for zrec2 as well but zrec code is bad enough to share publicly XD.
+Made it back in 2020, deciding to make it open source now. Would do the same for zrec2 as well but zrec code is bad enough to share publicly XD.
